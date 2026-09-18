@@ -1,0 +1,210 @@
+[
+  {
+    "id": "iphone-17-pro",
+    "slug": "iphone-17-pro",
+    "name": "iPhone 17 Pro",
+    "brand": "Apple",
+    "category": "phones",
+    "family": "iPhone",
+    "yearIntroduced": 2025,
+    "chip": "Apple A19 Pro",
+    "screenSize": 6.3,
+    "storageGb": [
+      256,
+      512,
+      1024
+    ],
+    "ramGb": [],
+    "colors": [
+      "Silver",
+      "Cosmic Orange",
+      "Deep Blue"
+    ],
+    "specifications": [],
+    "sources": [],
+    "images": [
+      {
+        "src": "/products/iphone-17-pro.webp",
+        "width": 1306,
+        "height": 1306,
+        "alt": "iPhone 17 Pro in Cosmic Orange, front and rear",
+        "view": "Overview"
+      }
+    ],
+    "offers": [],
+    "featured": true
+  },
+  {
+    "id": "galaxy-s26-ultra",
+    "slug": "galaxy-s26-ultra",
+    "name": "Galaxy S26 Ultra",
+    "brand": "Samsung",
+    "category": "phones",
+    "family": "Galaxy S",
+    "yearIntroduced": 2026,
+    "chip": "Snapdragon 8 Elite Gen 5 for Galaxy",
+    "screenSize": 6.9,
+    "storageGb": [
+      256,
+      512,
+      1024
+    ],
+    "ramGb": [],
+    "colors": [
+      "Cobalt Violet",
+      "Sky Blue",
+      "Black",
+      "White"
+    ],
+    "specifications": [],
+    "sources": [],
+    "images": [
+      {
+        "src": "/products/galaxy-s26-ultra.webp",
+        "width": 1600,
+        "height": 1067,
+        "alt": "Galaxy S26 Ultra official product render",
+        "view": "Overview"
+      }
+    ],
+    "offers": [],
+    "featured": true,
+    "memoryByStorage": {
+      "256": [
+        12
+      ],
+      "512": [
+        12
+      ],
+      "1024": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "pixel-11-pro",
+    "slug": "pixel-11-pro",
+    "name": "Pixel 11 Pro",
+    "brand": "Google",
+    "category": "phones",
+    "family": "Pixel",
+    "yearIntroduced": 2026,
+    "chip": "Google Tensor G6",
+    "screenSize": 6.3,
+    "storageGb": [
+      256,
+      512,
+      1024
+    ],
+    "ramGb": [
+      12,
+      16
+    ],
+    "colors": [
+      "Canyon",
+      "Olive",
+      "Fog",
+      "Obsidian"
+    ],
+    "specifications": [],
+    "sources": [],
+    "images": [
+      {
+        "src": "/products/pixel-11-pro.webp",
+        "width": 1554,
+        "height": 1243,
+        "alt": "Pixel 11 Pro in Canyon, front and rear",
+        "view": "Overview"
+      }
+    ],
+    "offers": [],
+    "featured": true,
+    "memoryByStorage": {
+      "256": [
+        12
+      ],
+      "512": [
+        16
+      ],
+      "1024": [
+        16
+      ]
+    }
+  },
+  {
+    "id": "macbook-air-13-m5",
+    "slug": "macbook-air-13-m5",
+    "name": "MacBook Air 13-inch (M5)",
+    "brand": "Apple",
+    "category": "laptops",
+    "family": "MacBook Air",
+    "yearIntroduced": 2026,
+    "chip": "Apple M5",
+    "screenSize": 13.6,
+    "storageGb": [
+      512,
+      1024,
+      2048,
+      4096
+    ],
+    "ramGb": [],
+    "colors": [
+      "Sky Blue",
+      "Midnight",
+      "Starlight",
+      "Silver"
+    ],
+    "specifications": [],
+    "sources": [],
+    "images": [
+      {
+        "src": "/products/macbook-air-13-m5.webp",
+        "width": 1000,
+        "height": 1000,
+        "alt": "MacBook Air 13-inch (M5) official product render",
+        "view": "Overview"
+      }
+    ],
+    "offers": [],
+    "featured": true
+  },
+  {
+    "id": "ipad-air-11-m4",
+    "slug": "ipad-air-11-m4",
+    "name": "iPad Air 11-inch (M4)",
+    "brand": "Apple",
+    "category": "tablets",
+    "family": "iPad Air",
+    "yearIntroduced": 2026,
+    "chip": "Apple M4",
+    "screenSize": 11,
+    "storageGb": [
+      128,
+      256,
+      512,
+      1024
+    ],
+    "ramGb": [
+      12
+    ],
+    "colors": [
+      "Blue",
+      "Purple",
+      "Starlight",
+      "Space Grey"
+    ],
+    "specifications": [],
+    "sources": [],
+    "images": [
+      {
+        "src": "/products/ipad-air-11-m4.webp",
+        "width": 1000,
+        "height": 1000,
+        "alt": "iPad Air 11-inch (M4) official product render",
+        "view": "Overview"
+      }
+    ],
+    "offers": [],
+    "featured": true
+  }
+]
