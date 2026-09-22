@@ -4,7 +4,7 @@ import {useState} from "react";
 import {MessageCircle,ArrowUpRight,Info} from "lucide-react";
 import {Product,formatStorage,formatPrice,conditionLabels} from "@/lib/catalogue";
 import {Select,SelectTrigger,SelectValue,SelectContent,SelectItem} from "@/components/ui/select";
-export function ProductOptions({product:p}:{product:Product}){
+export function ProductOptions({product:p}:{product:Pick<Product,"slug"|"category"|"storageGb"|"ramGb"|"colors"|"offers"|"memoryByStorage"|"configurationNote">}){
  const first=p.offers.find(o=>o.availability==="in-stock")||p.offers[0];
  const [storage,setStorage]=useState(first?.storageGb||p.storageGb[0]),[memory,setMemory]=useState(first?.ramGb||p.memoryByStorage?.[String(first?.storageGb||p.storageGb[0])]?.[0]||p.ramGb[0]),[color,setColor]=useState(first?.color||p.colors[0]||"Any colour"),[condition,setCondition]=useState<string>(first?.condition||"any");
  const memories=p.memoryByStorage?.[String(storage)]||p.ramGb;

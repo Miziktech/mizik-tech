@@ -1,7 +1,7 @@
 export type Category = "phones" | "tablets" | "laptops";
 export type Condition = "new" | "mint" | "good";
 export type Availability = "in-stock" | "out-of-stock" | "preorder";
-export type ProductImage = {src:string; thumbnail?:string; width:number; height:number; alt:string; view:string; color?:string; sourcePage?:string; originalUrl?:string};
+export type ProductImage = {src:string; thumbnail?:string; width:number; height:number; alt:string; view:string; color?:string; sourcePage?:string; originalUrl?:string; credit?:string};
 export type Offer = {sku:string; storageGb:number; ramGb?:number; color:string; condition:Condition; availability:Availability; price:number|null; currency:"NGN"; quantity?:number; purchaseUrl?:string};
 export type Product = {id:string;slug:string;name:string;brand:string;category:Category;family:string;yearIntroduced:number;chip:string;screenSize:number|null;storageGb:number[];ramGb:number[];colors:string[];specifications:{label:string;value:string}[];images:ProductImage[];sources:string[];offers:Offer[];featured?:boolean;description?:string;memoryByStorage?:Record<string,number[]>;configurationNote?:string;checkedAt?:string;releaseDate?:string};
 export const categories = [{slug:"phones" as Category,name:"Phones",description:"From your first iPhone to your next flagship."},{slug:"tablets" as Category,name:"Tablets",description:"Room to create, study and unwind."},{slug:"laptops" as Category,name:"Laptops",description:"MacBooks for wherever the day takes you."}];
@@ -18,13 +18,13 @@ export function readFilters(params:URLSearchParams):Filters {
 export function filterProducts(items:Product[],f:Filters){
  const terms=f.q.trim().toLowerCase().split(/\s+/).filter(Boolean);
  const filtered=items.filter(p=>{
-  if(terms.some(t=>!`${p.name} ${p.brand} ${p.family} ${p.chip} ${p.yearIntroduced}`.toLowerCase().includes(t)))return false;
+  if(terms.some(t=>!`${p.name} ${p.name.replaceAll("+"," plus ")} ${p.name.replace(/[^a-z0-9]/gi,"")} ${p.brand} ${p.family} ${p.chip} ${p.yearIntroduced}`.toLowerCase().includes(t)))return false;
   if(f.brand!=="all"&&p.brand.toLowerCase()!==f.brand)return false;
   const commercialFilter=f.condition!=="all"&&f.condition!=="enquire"||f.availability!=="all"&&f.availability!=="enquire"||f.min!==""||f.max!=="";
   if((f.condition==="enquire"||f.availability==="enquire")&&p.offers.length)return false;
   if(!p.offers.length){
    if(commercialFilter)return false;
-   return (f.storage==="all"||p.storageGb.includes(Number(f.storage)))&&(f.ram==="all"||p.ramGb.includes(Number(f.ram)));
+   return (f.storage==="all"||p.storageGb.includes(Number(f.storage)))&&(f.ram==="all"||(f.storage!=="all"&&p.memoryByStorage?p.memoryByStorage[f.storage]||[]:p.ramGb).includes(Number(f.ram)));
   }
   return p.offers.some(o=>(f.storage==="all"||o.storageGb===Number(f.storage))&&(f.ram==="all"||o.ramGb===Number(f.ram))&&(f.condition==="all"||o.condition===f.condition)&&(f.availability==="all"||o.availability===f.availability)&&(f.min===""||o.price!==null&&o.price>=Number(f.min))&&(f.max===""||o.price!==null&&o.price<=Number(f.max)));
  });
