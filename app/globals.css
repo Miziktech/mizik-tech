@@ -40,3 +40,6 @@ h2{font-family:Poppins,sans-serif;font-weight:600;letter-spacing:-.045em}.eyebro
 @media(max-width:380px){.category-tabs{gap:20px}.catalogue-sort{width:160px}.product-card h3{font-size:.875rem}.catalogue-products{gap:26px 12px}.configuration-selects{grid-template-columns:1fr}.category-text p{font-size:.8125rem}.hero-copy h1{font-size:38px}.hero-copy{padding:26px 22px}}
 
 .image-credit{position:absolute;bottom:12px;left:12px;font-size:.75rem;color:var(--grey);background:#ffffffcc;padding:3px 6px;border-radius:3px}.gallery-credit{font-weight:600}
+
+/* Keep the crisp footer wordmark legible on the navy background. */
+.footer-brand img{filter:invert(1) grayscale(1) contrast(100);mix-blend-mode:screen}

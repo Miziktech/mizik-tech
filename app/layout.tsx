@@ -4,7 +4,7 @@ import {SiteHeader} from "@/components/site-header";
 import {Toaster} from "@/components/ui/sonner";
 import {SiteFooter} from "@/components/site-footer";
 export const metadata:Metadata = {
- metadataBase:new URL("https://miziktech-catalogue.qinglidah.chatgpt.site"),
+ metadataBase:new URL("https://mizik-tech.vercel.app"),
  title:{default:"MizikTech — Quality devices. Honest value.",template:"%s | MizikTech"},
  description:"Explore iPhones, Samsung Galaxy and Google Pixel phones, iPads, Galaxy tablets and MacBooks at MizikTech. Quality devices and honest value from Lagos.",
  icons:{icon:"/favicon.svg",shortcut:"/favicon.svg"}
