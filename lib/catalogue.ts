@@ -1,10 +1,10 @@
-export type Category = "phones" | "tablets" | "laptops";
+export type Category = "phones" | "tablets" | "laptops" | "watches";
 export type Condition = "new" | "mint" | "good";
 export type Availability = "in-stock" | "out-of-stock" | "preorder";
 export type ProductImage = {src:string; thumbnail?:string; width:number; height:number; alt:string; view:string; color?:string; sourcePage?:string; originalUrl?:string; credit?:string};
 export type Offer = {sku:string; storageGb:number; ramGb?:number; color:string; condition:Condition; availability:Availability; price:number|null; currency:"NGN"; quantity?:number; purchaseUrl?:string};
-export type Product = {id:string;slug:string;name:string;brand:string;category:Category;family:string;yearIntroduced:number;chip:string;screenSize:number|null;storageGb:number[];ramGb:number[];colors:string[];specifications:{label:string;value:string}[];images:ProductImage[];sources:string[];offers:Offer[];featured?:boolean;description?:string;memoryByStorage?:Record<string,number[]>;configurationNote?:string;checkedAt?:string;releaseDate?:string};
-export const categories = [{slug:"phones" as Category,name:"Phones",description:"From your first iPhone to your next flagship."},{slug:"tablets" as Category,name:"Tablets",description:"Room to create, study and unwind."},{slug:"laptops" as Category,name:"Laptops",description:"MacBooks for wherever the day takes you."}];
+export type Product = {id:string;slug:string;name:string;brand:string;category:Category;family:string;yearIntroduced:number;chip:string;screenSize:number|null;storageGb:number[];ramGb:number[];colors:string[];specifications:{label:string;value:string}[];images:ProductImage[];sources:string[];offers:Offer[];featured?:boolean;description?:string;memoryByStorage?:Record<string,number[]>;configurationNote?:string;caseSizesMm?:number[];checkedAt?:string;releaseDate?:string};
+export const categories = [{slug:"phones" as Category,name:"Phones",description:"From your first iPhone to your next flagship."},{slug:"tablets" as Category,name:"Tablets",description:"Room to create, study and unwind."},{slug:"laptops" as Category,name:"Laptops",description:"MacBooks for wherever the day takes you."},{slug:"watches" as Category,name:"Watches",description:"Apple Watch and Galaxy Watch for every day."}];
 export const formatStorage = (gb:number) => gb>=1024 ? (gb/1024)+"TB" : gb+"GB";
 export const formatPrice = (price:number) => new Intl.NumberFormat("en-NG",{style:"currency",currency:"NGN",maximumFractionDigits:0}).format(price);
 export const getPrice = (p:Product) => {const prices=p.offers.flatMap(o=>o.price===null?[]:[o.price]);return prices.length?Math.min(...prices):null;};

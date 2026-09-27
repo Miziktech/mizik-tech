@@ -8,12 +8,12 @@ const sources = JSON.parse(fs.readFileSync(path.join(root, "docs/image-sources.j
 const failures = [];
 
 const unique = (values) => new Set(values).size === values.length;
-if (products.length !== 182) failures.push(`Expected 182 catalogue entries, found ${products.length}`);
+if (products.length !== 206) failures.push(`Expected 206 catalogue entries, found ${products.length}`);
 if (!unique(products.map((product) => product.id))) failures.push("Duplicate product IDs");
 if (!unique(products.map((product) => product.slug))) failures.push("Duplicate product slugs");
 
 const counts = Object.groupBy(products, (product) => product.category);
-for (const [category, expected] of Object.entries({ phones: 90, tablets: 58, laptops: 34 })) {
+for (const [category, expected] of Object.entries({ phones: 90, tablets: 58, laptops: 34, watches: 24 })) {
   if ((counts[category] || []).length !== expected) failures.push(`${category} count is ${(counts[category] || []).length}, expected ${expected}`);
 }
 

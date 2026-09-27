@@ -14993,5 +14993,1318 @@
         8
       ]
     }
+  },
+  {
+    "id": "apple-watch-series-7",
+    "slug": "apple-watch-series-7",
+    "name": "Apple Watch Series 7",
+    "brand": "Apple",
+    "category": "watches",
+    "family": "Apple Watch",
+    "yearIntroduced": 2021,
+    "chip": "S7",
+    "screenSize": null,
+    "storageGb": [
+      32
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      41,
+      45
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "41 mm / 45 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "S7"
+      },
+      {
+        "label": "Storage",
+        "value": "32 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/apple-watch-series-7/1.webp",
+        "thumbnail": "/products/apple-watch-series-7/1-thumb.webp",
+        "width": 980,
+        "height": 700,
+        "alt": "Apple Watch Series 7 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.apple.com/newsroom/2021/10/apple-watch-series-7-orders-start-friday-october-8/",
+        "originalUrl": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-series7-availability_hero_10052021_big.jpg.large.jpg"
+      }
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2021/10/apple-watch-series-7-orders-start-friday-october-8/"
+    ],
+    "offers": [],
+    "description": "Explore the Apple Watch Series 7. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "apple-watch-series-8",
+    "slug": "apple-watch-series-8",
+    "name": "Apple Watch Series 8",
+    "brand": "Apple",
+    "category": "watches",
+    "family": "Apple Watch",
+    "yearIntroduced": 2022,
+    "chip": "S8",
+    "screenSize": null,
+    "storageGb": [
+      32
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      41,
+      45
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "41 mm / 45 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "S8"
+      },
+      {
+        "label": "Storage",
+        "value": "32 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/apple-watch-series-8/1.webp",
+        "thumbnail": "/products/apple-watch-series-8/1-thumb.webp",
+        "width": 1200,
+        "height": 675,
+        "alt": "Apple Watch Series 8 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.apple.com/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/",
+        "originalUrl": "https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-S8-2up-hero-220907_Full-Bleed-Image.jpg.large.jpg"
+      }
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/"
+    ],
+    "offers": [],
+    "description": "Explore the Apple Watch Series 8. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "apple-watch-se-2nd-generation",
+    "slug": "apple-watch-se-2nd-generation",
+    "name": "Apple Watch SE (2nd generation)",
+    "brand": "Apple",
+    "category": "watches",
+    "family": "Apple Watch",
+    "yearIntroduced": 2022,
+    "chip": "S8",
+    "screenSize": null,
+    "storageGb": [
+      32
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      40,
+      44
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "40 mm / 44 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "S8"
+      },
+      {
+        "label": "Storage",
+        "value": "32 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/apple-watch-se-2nd-generation/1.webp",
+        "thumbnail": "/products/apple-watch-se-2nd-generation/1-thumb.webp",
+        "width": 980,
+        "height": 771,
+        "alt": "Apple Watch SE (2nd generation) official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.apple.com/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/",
+        "originalUrl": "https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-SE-8up-hero-220907_big.jpg.large.jpg"
+      }
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/"
+    ],
+    "offers": [],
+    "description": "Explore the Apple Watch SE (2nd generation). Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "apple-watch-ultra",
+    "slug": "apple-watch-ultra",
+    "name": "Apple Watch Ultra",
+    "brand": "Apple",
+    "category": "watches",
+    "family": "Apple Watch",
+    "yearIntroduced": 2022,
+    "chip": "S8",
+    "screenSize": null,
+    "storageGb": [
+      32
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      49
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "49 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "S8"
+      },
+      {
+        "label": "Storage",
+        "value": "32 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/apple-watch-ultra/1.webp",
+        "thumbnail": "/products/apple-watch-ultra/1-thumb.webp",
+        "width": 1200,
+        "height": 675,
+        "alt": "Apple Watch Ultra official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.apple.com/newsroom/2022/09/introducing-apple-watch-ultra/",
+        "originalUrl": "https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-Ultra-3up-hero-220907_Full-Bleed-Image.jpg.large.jpg"
+      }
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2022/09/introducing-apple-watch-ultra/"
+    ],
+    "offers": [],
+    "description": "Explore the Apple Watch Ultra. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "apple-watch-series-9",
+    "slug": "apple-watch-series-9",
+    "name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "category": "watches",
+    "family": "Apple Watch",
+    "yearIntroduced": 2023,
+    "chip": "S9",
+    "screenSize": null,
+    "storageGb": [
+      64
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      41,
+      45
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "41 mm / 45 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "S9"
+      },
+      {
+        "label": "Storage",
+        "value": "64 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/apple-watch-series-9/1.webp",
+        "thumbnail": "/products/apple-watch-series-9/1-thumb.webp",
+        "width": 1200,
+        "height": 675,
+        "alt": "Apple Watch Series 9 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.apple.com/newsroom/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/",
+        "originalUrl": "https://www.apple.com/newsroom/images/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/article/Apple-Watch-S9-hero-230912_Full-Bleed-Image.jpg.large.jpg"
+      }
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/"
+    ],
+    "offers": [],
+    "description": "Explore the Apple Watch Series 9. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "apple-watch-ultra-2",
+    "slug": "apple-watch-ultra-2",
+    "name": "Apple Watch Ultra 2",
+    "brand": "Apple",
+    "category": "watches",
+    "family": "Apple Watch",
+    "yearIntroduced": 2023,
+    "chip": "S9",
+    "screenSize": null,
+    "storageGb": [
+      64
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      49
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "49 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "S9"
+      },
+      {
+        "label": "Storage",
+        "value": "64 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/apple-watch-ultra-2/1.webp",
+        "thumbnail": "/products/apple-watch-ultra-2/1-thumb.webp",
+        "width": 1200,
+        "height": 675,
+        "alt": "Apple Watch Ultra 2 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.apple.com/newsroom/2023/09/apple-unveils-apple-watch-ultra-2/",
+        "originalUrl": "https://www.apple.com/newsroom/images/2023/09/apple-unveils-apple-watch-ultra-2/article/Apple-Watch-Ultra-2-hero-230912_Full-Bleed-Image.jpg.large.jpg"
+      }
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2023/09/apple-unveils-apple-watch-ultra-2/"
+    ],
+    "offers": [],
+    "description": "Explore the Apple Watch Ultra 2. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "apple-watch-series-10",
+    "slug": "apple-watch-series-10",
+    "name": "Apple Watch Series 10",
+    "brand": "Apple",
+    "category": "watches",
+    "family": "Apple Watch",
+    "yearIntroduced": 2024,
+    "chip": "S10",
+    "screenSize": null,
+    "storageGb": [
+      64
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      42,
+      46
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "42 mm / 46 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "S10"
+      },
+      {
+        "label": "Storage",
+        "value": "64 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/apple-watch-series-10/1.webp",
+        "thumbnail": "/products/apple-watch-series-10/1-thumb.webp",
+        "width": 980,
+        "height": 551,
+        "alt": "A fanned-out array of seven Apple Watch Series 10 devices with different finishes and bands.",
+        "view": "Official product view",
+        "sourcePage": "https://www.apple.com/newsroom/2024/09/introducing-apple-watch-series-10/",
+        "originalUrl": "https://www.apple.com/newsroom/images/2024/09/introducing-apple-watch-series-10/article/Apple-Watch-Series-10-lineup-240909_big.jpg.large.jpg"
+      }
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2024/09/introducing-apple-watch-series-10/"
+    ],
+    "offers": [],
+    "description": "Explore the Apple Watch Series 10. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "apple-watch-series-11",
+    "slug": "apple-watch-series-11",
+    "name": "Apple Watch Series 11",
+    "brand": "Apple",
+    "category": "watches",
+    "family": "Apple Watch",
+    "yearIntroduced": 2025,
+    "chip": "S10",
+    "screenSize": null,
+    "storageGb": [
+      64
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      42,
+      46
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "42 mm / 46 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "S10"
+      },
+      {
+        "label": "Storage",
+        "value": "64 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/apple-watch-series-11/1.webp",
+        "thumbnail": "/products/apple-watch-series-11/1-thumb.webp",
+        "width": 980,
+        "height": 551,
+        "alt": "Two angled Apple Watch Series 11 devices showing the new sleep score and hypertension notifications features.",
+        "view": "Official product view",
+        "sourcePage": "https://www.apple.com/newsroom/2025/09/apple-debuts-apple-watch-series-11-featuring-groundbreaking-health-insights/",
+        "originalUrl": "https://www.apple.com/newsroom/images/2025/09/apple-debuts-apple-watch-series-11-featuring-groundbreaking-health-insights/article/Apple-Watch-Series-11-health-features-250909_inline.jpg.large.jpg"
+      }
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2025/09/apple-debuts-apple-watch-series-11-featuring-groundbreaking-health-insights/"
+    ],
+    "offers": [],
+    "description": "Explore the Apple Watch Series 11. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "apple-watch-se-3",
+    "slug": "apple-watch-se-3",
+    "name": "Apple Watch SE 3",
+    "brand": "Apple",
+    "category": "watches",
+    "family": "Apple Watch",
+    "yearIntroduced": 2025,
+    "chip": "S10",
+    "screenSize": null,
+    "storageGb": [
+      64
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      40,
+      44
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "40 mm / 44 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "S10"
+      },
+      {
+        "label": "Storage",
+        "value": "64 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/apple-watch-se-3/1.webp",
+        "thumbnail": "/products/apple-watch-se-3/1-thumb.webp",
+        "width": 980,
+        "height": 653,
+        "alt": "Apple Watch SE 3 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.apple.com/newsroom/2025/09/apple-introduces-apple-watch-se-3/",
+        "originalUrl": "https://www.apple.com/newsroom/images/2025/09/apple-introduces-apple-watch-se-3/article/Apple-Watch-SE-3-hero-250909_big.jpg.large.jpg"
+      }
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2025/09/apple-introduces-apple-watch-se-3/"
+    ],
+    "offers": [],
+    "description": "Explore the Apple Watch SE 3. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "apple-watch-ultra-3",
+    "slug": "apple-watch-ultra-3",
+    "name": "Apple Watch Ultra 3",
+    "brand": "Apple",
+    "category": "watches",
+    "family": "Apple Watch",
+    "yearIntroduced": 2025,
+    "chip": "S10",
+    "screenSize": null,
+    "storageGb": [
+      64
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      49
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "49 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "S10"
+      },
+      {
+        "label": "Storage",
+        "value": "64 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/apple-watch-ultra-3/1.webp",
+        "thumbnail": "/products/apple-watch-ultra-3/1-thumb.webp",
+        "width": 980,
+        "height": 551,
+        "alt": "Apple Watch Ultra 3 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.apple.com/newsroom/2025/09/introducing-apple-watch-ultra-3/",
+        "originalUrl": "https://www.apple.com/newsroom/images/2025/09/introducing-apple-watch-ultra-3/article/Apple-Watch-Ultra-3-hero-250909_big.jpg.large.jpg"
+      }
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2025/09/introducing-apple-watch-ultra-3/"
+    ],
+    "offers": [],
+    "description": "Explore the Apple Watch Ultra 3. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "apple-watch-series-12",
+    "slug": "apple-watch-series-12",
+    "name": "Apple Watch Series 12",
+    "brand": "Apple",
+    "category": "watches",
+    "family": "Apple Watch",
+    "yearIntroduced": 2026,
+    "chip": "S11",
+    "screenSize": null,
+    "storageGb": [
+      64
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      42,
+      46
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "42 mm / 46 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "S11"
+      },
+      {
+        "label": "Storage",
+        "value": "64 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/apple-watch-series-12/1.webp",
+        "thumbnail": "/products/apple-watch-series-12/1-thumb.webp",
+        "width": 980,
+        "height": 551,
+        "alt": "Apple Watch Series 12 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+        "originalUrl": "https://www.apple.com/newsroom/images/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/article/Apple-Watch-Series-12-2up-260909_big.jpg.large.jpg"
+      }
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/"
+    ],
+    "offers": [],
+    "description": "Explore the Apple Watch Series 12. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "apple-watch-ultra-4",
+    "slug": "apple-watch-ultra-4",
+    "name": "Apple Watch Ultra 4",
+    "brand": "Apple",
+    "category": "watches",
+    "family": "Apple Watch",
+    "yearIntroduced": 2026,
+    "chip": "S11",
+    "screenSize": null,
+    "storageGb": [
+      64
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      49
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "49 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "S11"
+      },
+      {
+        "label": "Storage",
+        "value": "64 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/apple-watch-ultra-4/1.webp",
+        "thumbnail": "/products/apple-watch-ultra-4/1-thumb.webp",
+        "width": 980,
+        "height": 551,
+        "alt": "The natural titanium Apple Watch Ultra 4 with theTrail Loop in sand.",
+        "view": "Official product view",
+        "sourcePage": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+        "originalUrl": "https://www.apple.com/newsroom/images/2026/09/apple-unveils-apple-watch-ultra-4/article/Apple-Watch-Ultra-4-Trail-Loop-sand-260909_inline.jpg.large.jpg"
+      }
+    ],
+    "sources": [
+      "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/"
+    ],
+    "offers": [],
+    "description": "Explore the Apple Watch Ultra 4. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "galaxy-watch4",
+    "slug": "galaxy-watch4",
+    "name": "Samsung Galaxy Watch4",
+    "brand": "Samsung",
+    "category": "watches",
+    "family": "Galaxy Watch",
+    "yearIntroduced": 2021,
+    "chip": "Exynos W920",
+    "screenSize": null,
+    "storageGb": [
+      16
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      40,
+      44
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "40 mm / 44 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "Exynos W920"
+      },
+      {
+        "label": "Storage",
+        "value": "16 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/galaxy-watch4/1.webp",
+        "thumbnail": "/products/galaxy-watch4/1-thumb.webp",
+        "width": 1200,
+        "height": 847,
+        "alt": "Samsung Galaxy Watch4 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://news.samsung.com/us/galaxy-watch4-and-galaxy-watch4-classic-reshaping-the-smartwatch-experience/",
+        "originalUrl": "https://img.us.news.samsung.com/us/wp-content/uploads/2021/08/11092549/11.-Galaxy-Watch4_KV_Main-scaled.jpg"
+      }
+    ],
+    "sources": [
+      "https://news.samsung.com/us/galaxy-watch4-and-galaxy-watch4-classic-reshaping-the-smartwatch-experience/",
+      "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/"
+    ],
+    "offers": [],
+    "description": "Explore the Samsung Galaxy Watch4. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "galaxy-watch5",
+    "slug": "galaxy-watch5",
+    "name": "Samsung Galaxy Watch5",
+    "brand": "Samsung",
+    "category": "watches",
+    "family": "Galaxy Watch",
+    "yearIntroduced": 2022,
+    "chip": "Exynos W920",
+    "screenSize": null,
+    "storageGb": [
+      16
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      40,
+      44
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "40 mm / 44 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "Exynos W920"
+      },
+      {
+        "label": "Storage",
+        "value": "16 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/galaxy-watch5/1.webp",
+        "thumbnail": "/products/galaxy-watch5/1-thumb.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Galaxy Watch5 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://news.samsung.com/us/samsung-galaxy-watch5-pro-health-innovation-unpacked-2022/",
+        "originalUrl": "https://img.us.news.samsung.com/us/wp-content/uploads/2022/08/10085336/galaxy_watch5_sapphire_44mm-scaled.jpg"
+      }
+    ],
+    "sources": [
+      "https://news.samsung.com/us/samsung-galaxy-watch5-pro-health-innovation-unpacked-2022/",
+      "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/"
+    ],
+    "offers": [],
+    "description": "Explore the Samsung Galaxy Watch5. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "galaxy-watch6",
+    "slug": "galaxy-watch6",
+    "name": "Samsung Galaxy Watch6",
+    "brand": "Samsung",
+    "category": "watches",
+    "family": "Galaxy Watch",
+    "yearIntroduced": 2023,
+    "chip": "Exynos W930",
+    "screenSize": null,
+    "storageGb": [
+      16
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      40,
+      44
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "40 mm / 44 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "Exynos W930"
+      },
+      {
+        "label": "Storage",
+        "value": "16 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/galaxy-watch6/1.webp",
+        "thumbnail": "/products/galaxy-watch6/1-thumb.webp",
+        "width": 1000,
+        "height": 667,
+        "alt": "Samsung Galaxy Watch6 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986%C2%B7%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+        "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2023/07/%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986-44mm-%EC%8B%A4%EB%B2%84-%EC%A0%95%EB%A9%B4-e1690360200861.jpg"
+      },
+      {
+        "src": "/products/galaxy-watch6/2.webp",
+        "thumbnail": "/products/galaxy-watch6/2-thumb.webp",
+        "width": 1000,
+        "height": 667,
+        "alt": "Samsung Galaxy Watch6 alternate official view",
+        "view": "Alternate product view",
+        "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986%C2%B7%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+        "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2023/07/%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986-44mm-%EC%8B%A4%EB%B2%84-%EC%B8%A1%EB%A9%B4-e1690360188260.jpg"
+      }
+    ],
+    "sources": [
+      "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986%C2%B7%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+      "https://news.samsung.com/us/samsung-galaxy-watch6-series-classic-inspiring-best-self-day-night-unpacked-2023/",
+      "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/"
+    ],
+    "offers": [],
+    "description": "Explore the Samsung Galaxy Watch6. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "galaxy-watch7",
+    "slug": "galaxy-watch7",
+    "name": "Samsung Galaxy Watch7",
+    "brand": "Samsung",
+    "category": "watches",
+    "family": "Galaxy Watch",
+    "yearIntroduced": 2024,
+    "chip": "Exynos W1000",
+    "screenSize": null,
+    "storageGb": [
+      32
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      40,
+      44
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "40 mm / 44 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "Exynos W1000"
+      },
+      {
+        "label": "Storage",
+        "value": "32 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/galaxy-watch7/1.webp",
+        "thumbnail": "/products/galaxy-watch7/1-thumb.webp",
+        "width": 1200,
+        "height": 800,
+        "alt": "Samsung Galaxy Watch7 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://news.samsung.com/us/samsung-galaxy-ring-watch7-watch-ultra-wearables-provide-intelligent-health-wellness-data/",
+        "originalUrl": "https://img.us.news.samsung.com/us/wp-content/uploads/2024/07/10090852/005-Galaxy-Watch7-Press-Release.jpg"
+      }
+    ],
+    "sources": [
+      "https://news.samsung.com/us/samsung-galaxy-ring-watch7-watch-ultra-wearables-provide-intelligent-health-wellness-data/",
+      "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/"
+    ],
+    "offers": [],
+    "description": "Explore the Samsung Galaxy Watch7. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "galaxy-watch-ultra",
+    "slug": "galaxy-watch-ultra",
+    "name": "Samsung Galaxy Watch Ultra",
+    "brand": "Samsung",
+    "category": "watches",
+    "family": "Galaxy Watch",
+    "yearIntroduced": 2024,
+    "chip": "Exynos W1000",
+    "screenSize": null,
+    "storageGb": [
+      32
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      47
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "47 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "Exynos W1000"
+      },
+      {
+        "label": "Storage",
+        "value": "32 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/galaxy-watch-ultra/1.webp",
+        "thumbnail": "/products/galaxy-watch-ultra/1-thumb.webp",
+        "width": 420,
+        "height": 300,
+        "alt": "Samsung Galaxy Watch Ultra official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/",
+        "originalUrl": "https://images.samsung.com/is/image/samsung/assets/us/explore/mobile/buying-guide/watch-models-explained/scom-75304/WatchUltra.png"
+      }
+    ],
+    "sources": [
+      "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/"
+    ],
+    "offers": [],
+    "description": "Explore the Samsung Galaxy Watch Ultra. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "galaxy-watch8",
+    "slug": "galaxy-watch8",
+    "name": "Samsung Galaxy Watch8",
+    "brand": "Samsung",
+    "category": "watches",
+    "family": "Galaxy Watch",
+    "yearIntroduced": 2025,
+    "chip": "Exynos W1000",
+    "screenSize": null,
+    "storageGb": [
+      32
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      40,
+      44
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "40 mm / 44 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "Exynos W1000"
+      },
+      {
+        "label": "Storage",
+        "value": "32 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/galaxy-watch8/1.webp",
+        "thumbnail": "/products/galaxy-watch8/1-thumb.webp",
+        "width": 1200,
+        "height": 908,
+        "alt": "Samsung Galaxy Watch8 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.samsung.com/us/watches/galaxy-watch8/",
+        "originalUrl": "https://images.samsung.com/is/image/samsung/assets/us/watches/galaxy-watch8/images/galaxy-watch8-unveil-end-tb.jpg?imbypass=true"
+      }
+    ],
+    "sources": [
+      "https://www.samsung.com/us/watches/galaxy-watch8/",
+      "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/"
+    ],
+    "offers": [],
+    "description": "Explore the Samsung Galaxy Watch8. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "galaxy-watch8-classic",
+    "slug": "galaxy-watch8-classic",
+    "name": "Samsung Galaxy Watch8 Classic",
+    "brand": "Samsung",
+    "category": "watches",
+    "family": "Galaxy Watch",
+    "yearIntroduced": 2025,
+    "chip": "Exynos W1000",
+    "screenSize": null,
+    "storageGb": [
+      64
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      46
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "46 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "Exynos W1000"
+      },
+      {
+        "label": "Storage",
+        "value": "64 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/galaxy-watch8-classic/1.webp",
+        "thumbnail": "/products/galaxy-watch8-classic/1-thumb.webp",
+        "width": 420,
+        "height": 300,
+        "alt": "Samsung Galaxy Watch8 Classic official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/",
+        "originalUrl": "https://images.samsung.com/is/image/samsung/assets/us/explore/mobile/buying-guide/watch-models-explained/scom-75304/Watch8Classic.png"
+      }
+    ],
+    "sources": [
+      "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/"
+    ],
+    "offers": [],
+    "description": "Explore the Samsung Galaxy Watch8 Classic. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "galaxy-watch9",
+    "slug": "galaxy-watch9",
+    "name": "Samsung Galaxy Watch9",
+    "brand": "Samsung",
+    "category": "watches",
+    "family": "Galaxy Watch",
+    "yearIntroduced": 2026,
+    "chip": "Snapdragon Wear Elite",
+    "screenSize": null,
+    "storageGb": [
+      32
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      40,
+      44
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "40 mm / 44 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "Snapdragon Wear Elite"
+      },
+      {
+        "label": "Storage",
+        "value": "32 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/galaxy-watch9/1.webp",
+        "thumbnail": "/products/galaxy-watch9/1-thumb.webp",
+        "width": 1200,
+        "height": 573,
+        "alt": "Samsung Galaxy Watch9 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://www.samsung.com/us/watches/galaxy-watch9/",
+        "originalUrl": "https://images.samsung.com/is/image/samsung/assets/us/watches/galaxy-watch9/images/Galaxy-Watch9_KV_PC.jpg?imbypass=true"
+      }
+    ],
+    "sources": [
+      "https://www.samsung.com/us/watches/galaxy-watch9/",
+      "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/"
+    ],
+    "offers": [],
+    "description": "Explore the Samsung Galaxy Watch9. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "galaxy-watch-ultra2",
+    "slug": "galaxy-watch-ultra2",
+    "name": "Samsung Galaxy Watch Ultra2",
+    "brand": "Samsung",
+    "category": "watches",
+    "family": "Galaxy Watch",
+    "yearIntroduced": 2026,
+    "chip": "Snapdragon Wear Elite",
+    "screenSize": null,
+    "storageGb": [
+      64
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      47
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "47 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "Snapdragon Wear Elite"
+      },
+      {
+        "label": "Storage",
+        "value": "64 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/galaxy-watch-ultra2/1.webp",
+        "thumbnail": "/products/galaxy-watch-ultra2/1-thumb.webp",
+        "width": 1160,
+        "height": 1080,
+        "alt": "Samsung Galaxy Watch Ultra2 official product image",
+        "view": "Official product view",
+        "sourcePage": "https://news.samsung.com/global/samsung-galaxy-watch-ultra2-and-watch9-your-health-companion-on-the-wrist",
+        "originalUrl": "https://images.samsung.com/is/image/samsung/assets/us/watches/galaxy-watch-ultra2/images/Galaxy-Watch-Ultra2_Design-colors-silver_PC.jpg?imbypass=true"
+      }
+    ],
+    "sources": [
+      "https://www.samsung.com/us/watches/galaxy-watch-ultra2/",
+      "https://news.samsung.com/global/samsung-galaxy-watch-ultra2-and-watch9-your-health-companion-on-the-wrist",
+      "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/"
+    ],
+    "offers": [],
+    "description": "Explore the Samsung Galaxy Watch Ultra2. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "galaxy-watch4-classic",
+    "slug": "galaxy-watch4-classic",
+    "name": "Samsung Galaxy Watch4 Classic",
+    "brand": "Samsung",
+    "category": "watches",
+    "family": "Galaxy Watch",
+    "yearIntroduced": 2021,
+    "chip": "Exynos W920",
+    "screenSize": null,
+    "storageGb": [
+      16
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      42,
+      46
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "42 mm / 46 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "Exynos W920"
+      },
+      {
+        "label": "Storage",
+        "value": "16 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/galaxy-watch4-classic/1.webp",
+        "thumbnail": "/products/galaxy-watch4-classic/1-thumb.webp",
+        "width": 1000,
+        "height": 666,
+        "alt": "Samsung Galaxy Watch4 Classic official product image",
+        "view": "Official product view",
+        "sourcePage": "https://news.samsung.com/kr/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%984%C2%B7%EC%9B%8C%EC%B9%984-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+        "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2021/08/%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%984-%ED%81%B4%EB%9E%98%EC%8B%9D_%EB%B8%94%EB%9E%99.jpg"
+      },
+      {
+        "src": "/products/galaxy-watch4-classic/2.webp",
+        "thumbnail": "/products/galaxy-watch4-classic/2-thumb.webp",
+        "width": 1000,
+        "height": 666,
+        "alt": "Samsung Galaxy Watch4 Classic alternate official view",
+        "view": "Alternate product view",
+        "sourcePage": "https://news.samsung.com/kr/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%984%C2%B7%EC%9B%8C%EC%B9%984-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+        "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2021/08/%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%984-%ED%81%B4%EB%9E%98%EC%8B%9D_%EC%8B%A4%EB%B2%84.jpg"
+      }
+    ],
+    "sources": [
+      "https://news.samsung.com/kr/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%984%C2%B7%EC%9B%8C%EC%B9%984-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C"
+    ],
+    "offers": [],
+    "description": "Explore the Samsung Galaxy Watch4 Classic. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "galaxy-watch5-pro",
+    "slug": "galaxy-watch5-pro",
+    "name": "Samsung Galaxy Watch5 Pro",
+    "brand": "Samsung",
+    "category": "watches",
+    "family": "Galaxy Watch",
+    "yearIntroduced": 2022,
+    "chip": "Exynos W920",
+    "screenSize": null,
+    "storageGb": [
+      16
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      45
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "45 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "Exynos W920"
+      },
+      {
+        "label": "Storage",
+        "value": "16 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/galaxy-watch5-pro/1.webp",
+        "thumbnail": "/products/galaxy-watch5-pro/1-thumb.webp",
+        "width": 1000,
+        "height": 666,
+        "alt": "Samsung Galaxy Watch5 Pro official product image",
+        "view": "Official product view",
+        "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%985%C2%B7%EC%9B%8C%EC%B9%985-%ED%94%84%EB%A1%9C-%EA%B3%B5%EA%B0%9C",
+        "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2022/08/7.%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%985-%ED%94%84%EB%A1%9C_%EA%B7%B8%EB%A0%88%EC%9D%B4-%ED%8B%B0%ED%83%80%EB%8A%84_1.jpg"
+      },
+      {
+        "src": "/products/galaxy-watch5-pro/2.webp",
+        "thumbnail": "/products/galaxy-watch5-pro/2-thumb.webp",
+        "width": 1000,
+        "height": 666,
+        "alt": "Samsung Galaxy Watch5 Pro alternate official view",
+        "view": "Alternate product view",
+        "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%985%C2%B7%EC%9B%8C%EC%B9%985-%ED%94%84%EB%A1%9C-%EA%B3%B5%EA%B0%9C",
+        "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2022/08/9.%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%985-%ED%94%84%EB%A1%9C_%EB%B8%94%EB%9E%99-%ED%8B%B0%ED%83%80%EB%8A%84_1.jpg"
+      }
+    ],
+    "sources": [
+      "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%985%C2%B7%EC%9B%8C%EC%B9%985-%ED%94%84%EB%A1%9C-%EA%B3%B5%EA%B0%9C"
+    ],
+    "offers": [],
+    "description": "Explore the Samsung Galaxy Watch5 Pro. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
+  },
+  {
+    "id": "galaxy-watch6-classic",
+    "slug": "galaxy-watch6-classic",
+    "name": "Samsung Galaxy Watch6 Classic",
+    "brand": "Samsung",
+    "category": "watches",
+    "family": "Galaxy Watch",
+    "yearIntroduced": 2023,
+    "chip": "Exynos W930",
+    "screenSize": null,
+    "storageGb": [
+      16
+    ],
+    "ramGb": [],
+    "colors": [],
+    "caseSizesMm": [
+      43,
+      47
+    ],
+    "specifications": [
+      {
+        "label": "Case size",
+        "value": "43 mm / 47 mm"
+      },
+      {
+        "label": "Processor",
+        "value": "Exynos W930"
+      },
+      {
+        "label": "Storage",
+        "value": "16 GB"
+      }
+    ],
+    "images": [
+      {
+        "src": "/products/galaxy-watch6-classic/1.webp",
+        "thumbnail": "/products/galaxy-watch6-classic/1-thumb.webp",
+        "width": 1000,
+        "height": 667,
+        "alt": "Samsung Galaxy Watch6 Classic official product image",
+        "view": "Official product view",
+        "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986%C2%B7%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+        "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2023/07/%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-47mm-%EB%B8%94%EB%9E%99-%EC%A0%95%EB%A9%B4-e1690360159594.jpg"
+      },
+      {
+        "src": "/products/galaxy-watch6-classic/2.webp",
+        "thumbnail": "/products/galaxy-watch6-classic/2-thumb.webp",
+        "width": 1000,
+        "height": 667,
+        "alt": "Samsung Galaxy Watch6 Classic alternate official view",
+        "view": "Alternate product view",
+        "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986%C2%B7%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+        "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2023/07/%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-47mm-%EB%B8%94%EB%9E%99-%EC%B8%A1%EB%A9%B4-e1690360149561.jpg"
+      }
+    ],
+    "sources": [
+      "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986%C2%B7%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C"
+    ],
+    "offers": [],
+    "description": "Explore the Samsung Galaxy Watch6 Classic. Ask MizikTech about available finishes, condition and price.",
+    "configurationNote": "Case size, finish, connectivity and stock are confirmed by MizikTech before purchase.",
+    "checkedAt": "2026-09-27"
   }
 ]

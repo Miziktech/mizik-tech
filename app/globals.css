@@ -43,3 +43,7 @@ h2{font-family:Poppins,sans-serif;font-weight:600;letter-spacing:-.045em}.eyebro
 
 /* Keep the crisp footer wordmark legible on the navy background. */
 .footer-brand img{filter:invert(1) grayscale(1) contrast(100);mix-blend-mode:screen}
+
+@media(min-width:1001px){.category-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+.category-tile.watches{background:#e9eef1}
+@media(min-width:761px) and (max-width:1000px){.category-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}

@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-18",
+  "checkedAt": "2026-09-27",
   "policy": "Original manufacturer assets, exact model identity, no AI generation, no upscaling, downloaded and served locally. Manufacturer copyright remains applicable; public availability does not establish a blanket commercial-use licence. Confirm applicable reseller/media permission before advertising or public launch. Samsung Mobile Press non-commercial files are excluded.",
   "images": [
     {
@@ -9617,6 +9617,454 @@
       "exactModelEvidence": "Exact Samsung manufacturer SKU in source page and product image URL; see source URL.",
       "sourceKind": "Samsung official retail product page and images.samsung.com product CDN",
       "rights": "Samsung-owned retail product imagery. Exact manufacturer source recorded; public availability does not establish a blanket commercial license. Applicable reseller permission or other reuse authorization should be confirmed.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "apple-watch-series-7",
+      "manufacturerModel": "Apple Watch Series 7",
+      "src": "/products/apple-watch-series-7/1.webp",
+      "sourcePage": "https://www.apple.com/newsroom/2021/10/apple-watch-series-7-orders-start-friday-october-8/",
+      "originalUrl": "https://www.apple.com/newsroom/images/product/watch/standard/Apple_watch-series7-availability_hero_10052021_big.jpg.large.jpg",
+      "webDimensions": [
+        980,
+        700
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Apple official product media",
+      "rights": "Apple copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "apple-watch-series-8",
+      "manufacturerModel": "Apple Watch Series 8",
+      "src": "/products/apple-watch-series-8/1.webp",
+      "sourcePage": "https://www.apple.com/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/",
+      "originalUrl": "https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-S8-2up-hero-220907_Full-Bleed-Image.jpg.large.jpg",
+      "webDimensions": [
+        1200,
+        675
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Apple official product media",
+      "rights": "Apple copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "apple-watch-se-2nd-generation",
+      "manufacturerModel": "Apple Watch SE (2nd generation)",
+      "src": "/products/apple-watch-se-2nd-generation/1.webp",
+      "sourcePage": "https://www.apple.com/newsroom/2022/09/apple-reveals-apple-watch-series-8-and-the-new-apple-watch-se/",
+      "originalUrl": "https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-SE-8up-hero-220907_big.jpg.large.jpg",
+      "webDimensions": [
+        980,
+        771
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Apple official product media",
+      "rights": "Apple copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "apple-watch-ultra",
+      "manufacturerModel": "Apple Watch Ultra",
+      "src": "/products/apple-watch-ultra/1.webp",
+      "sourcePage": "https://www.apple.com/newsroom/2022/09/introducing-apple-watch-ultra/",
+      "originalUrl": "https://www.apple.com/newsroom/images/product/watch/standard/Apple-Watch-Ultra-3up-hero-220907_Full-Bleed-Image.jpg.large.jpg",
+      "webDimensions": [
+        1200,
+        675
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Apple official product media",
+      "rights": "Apple copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "apple-watch-series-9",
+      "manufacturerModel": "Apple Watch Series 9",
+      "src": "/products/apple-watch-series-9/1.webp",
+      "sourcePage": "https://www.apple.com/newsroom/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/",
+      "originalUrl": "https://www.apple.com/newsroom/images/2023/09/apple-introduces-the-advanced-new-apple-watch-series-9/article/Apple-Watch-S9-hero-230912_Full-Bleed-Image.jpg.large.jpg",
+      "webDimensions": [
+        1200,
+        675
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Apple official product media",
+      "rights": "Apple copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "apple-watch-ultra-2",
+      "manufacturerModel": "Apple Watch Ultra 2",
+      "src": "/products/apple-watch-ultra-2/1.webp",
+      "sourcePage": "https://www.apple.com/newsroom/2023/09/apple-unveils-apple-watch-ultra-2/",
+      "originalUrl": "https://www.apple.com/newsroom/images/2023/09/apple-unveils-apple-watch-ultra-2/article/Apple-Watch-Ultra-2-hero-230912_Full-Bleed-Image.jpg.large.jpg",
+      "webDimensions": [
+        1200,
+        675
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Apple official product media",
+      "rights": "Apple copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "apple-watch-series-10",
+      "manufacturerModel": "Apple Watch Series 10",
+      "src": "/products/apple-watch-series-10/1.webp",
+      "sourcePage": "https://www.apple.com/newsroom/2024/09/introducing-apple-watch-series-10/",
+      "originalUrl": "https://www.apple.com/newsroom/images/2024/09/introducing-apple-watch-series-10/article/Apple-Watch-Series-10-lineup-240909_big.jpg.large.jpg",
+      "webDimensions": [
+        980,
+        551
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Apple official product media",
+      "rights": "Apple copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "apple-watch-series-11",
+      "manufacturerModel": "Apple Watch Series 11",
+      "src": "/products/apple-watch-series-11/1.webp",
+      "sourcePage": "https://www.apple.com/newsroom/2025/09/apple-debuts-apple-watch-series-11-featuring-groundbreaking-health-insights/",
+      "originalUrl": "https://www.apple.com/newsroom/images/2025/09/apple-debuts-apple-watch-series-11-featuring-groundbreaking-health-insights/article/Apple-Watch-Series-11-health-features-250909_inline.jpg.large.jpg",
+      "webDimensions": [
+        980,
+        551
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Apple official product media",
+      "rights": "Apple copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "apple-watch-se-3",
+      "manufacturerModel": "Apple Watch SE 3",
+      "src": "/products/apple-watch-se-3/1.webp",
+      "sourcePage": "https://www.apple.com/newsroom/2025/09/apple-introduces-apple-watch-se-3/",
+      "originalUrl": "https://www.apple.com/newsroom/images/2025/09/apple-introduces-apple-watch-se-3/article/Apple-Watch-SE-3-hero-250909_big.jpg.large.jpg",
+      "webDimensions": [
+        980,
+        653
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Apple official product media",
+      "rights": "Apple copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "apple-watch-ultra-3",
+      "manufacturerModel": "Apple Watch Ultra 3",
+      "src": "/products/apple-watch-ultra-3/1.webp",
+      "sourcePage": "https://www.apple.com/newsroom/2025/09/introducing-apple-watch-ultra-3/",
+      "originalUrl": "https://www.apple.com/newsroom/images/2025/09/introducing-apple-watch-ultra-3/article/Apple-Watch-Ultra-3-hero-250909_big.jpg.large.jpg",
+      "webDimensions": [
+        980,
+        551
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Apple official product media",
+      "rights": "Apple copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "apple-watch-series-12",
+      "manufacturerModel": "Apple Watch Series 12",
+      "src": "/products/apple-watch-series-12/1.webp",
+      "sourcePage": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "originalUrl": "https://www.apple.com/newsroom/images/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/article/Apple-Watch-Series-12-2up-260909_big.jpg.large.jpg",
+      "webDimensions": [
+        980,
+        551
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Apple official product media",
+      "rights": "Apple copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "apple-watch-ultra-4",
+      "manufacturerModel": "Apple Watch Ultra 4",
+      "src": "/products/apple-watch-ultra-4/1.webp",
+      "sourcePage": "https://www.apple.com/newsroom/2026/09/apple-unveils-apple-watch-ultra-4/",
+      "originalUrl": "https://www.apple.com/newsroom/images/2026/09/apple-unveils-apple-watch-ultra-4/article/Apple-Watch-Ultra-4-Trail-Loop-sand-260909_inline.jpg.large.jpg",
+      "webDimensions": [
+        980,
+        551
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Apple official product media",
+      "rights": "Apple copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch4",
+      "manufacturerModel": "Samsung Galaxy Watch4",
+      "src": "/products/galaxy-watch4/1.webp",
+      "sourcePage": "https://news.samsung.com/us/galaxy-watch4-and-galaxy-watch4-classic-reshaping-the-smartwatch-experience/",
+      "originalUrl": "https://img.us.news.samsung.com/us/wp-content/uploads/2021/08/11092549/11.-Galaxy-Watch4_KV_Main-scaled.jpg",
+      "webDimensions": [
+        1200,
+        847
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch5",
+      "manufacturerModel": "Samsung Galaxy Watch5",
+      "src": "/products/galaxy-watch5/1.webp",
+      "sourcePage": "https://news.samsung.com/us/samsung-galaxy-watch5-pro-health-innovation-unpacked-2022/",
+      "originalUrl": "https://img.us.news.samsung.com/us/wp-content/uploads/2022/08/10085336/galaxy_watch5_sapphire_44mm-scaled.jpg",
+      "webDimensions": [
+        1200,
+        800
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch6",
+      "manufacturerModel": "Samsung Galaxy Watch6",
+      "src": "/products/galaxy-watch6/1.webp",
+      "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986%C2%B7%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+      "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2023/07/%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986-44mm-%EC%8B%A4%EB%B2%84-%EC%A0%95%EB%A9%B4-e1690360200861.jpg",
+      "webDimensions": [
+        1000,
+        667
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch6",
+      "manufacturerModel": "Samsung Galaxy Watch6",
+      "src": "/products/galaxy-watch6/2.webp",
+      "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986%C2%B7%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+      "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2023/07/%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986-44mm-%EC%8B%A4%EB%B2%84-%EC%B8%A1%EB%A9%B4-e1690360188260.jpg",
+      "webDimensions": [
+        1000,
+        667
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch7",
+      "manufacturerModel": "Samsung Galaxy Watch7",
+      "src": "/products/galaxy-watch7/1.webp",
+      "sourcePage": "https://news.samsung.com/us/samsung-galaxy-ring-watch7-watch-ultra-wearables-provide-intelligent-health-wellness-data/",
+      "originalUrl": "https://img.us.news.samsung.com/us/wp-content/uploads/2024/07/10090852/005-Galaxy-Watch7-Press-Release.jpg",
+      "webDimensions": [
+        1200,
+        800
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch-ultra",
+      "manufacturerModel": "Samsung Galaxy Watch Ultra",
+      "src": "/products/galaxy-watch-ultra/1.webp",
+      "sourcePage": "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/",
+      "originalUrl": "https://images.samsung.com/is/image/samsung/assets/us/explore/mobile/buying-guide/watch-models-explained/scom-75304/WatchUltra.png",
+      "webDimensions": [
+        420,
+        300
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch8",
+      "manufacturerModel": "Samsung Galaxy Watch8",
+      "src": "/products/galaxy-watch8/1.webp",
+      "sourcePage": "https://www.samsung.com/us/watches/galaxy-watch8/",
+      "originalUrl": "https://images.samsung.com/is/image/samsung/assets/us/watches/galaxy-watch8/images/galaxy-watch8-unveil-end-tb.jpg?imbypass=true",
+      "webDimensions": [
+        1200,
+        908
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch8-classic",
+      "manufacturerModel": "Samsung Galaxy Watch8 Classic",
+      "src": "/products/galaxy-watch8-classic/1.webp",
+      "sourcePage": "https://www.samsung.com/us/explore/mobile/buying-guide/watch-models-explained/",
+      "originalUrl": "https://images.samsung.com/is/image/samsung/assets/us/explore/mobile/buying-guide/watch-models-explained/scom-75304/Watch8Classic.png",
+      "webDimensions": [
+        420,
+        300
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch9",
+      "manufacturerModel": "Samsung Galaxy Watch9",
+      "src": "/products/galaxy-watch9/1.webp",
+      "sourcePage": "https://www.samsung.com/us/watches/galaxy-watch9/",
+      "originalUrl": "https://images.samsung.com/is/image/samsung/assets/us/watches/galaxy-watch9/images/Galaxy-Watch9_KV_PC.jpg?imbypass=true",
+      "webDimensions": [
+        1200,
+        573
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch-ultra2",
+      "manufacturerModel": "Samsung Galaxy Watch Ultra2",
+      "src": "/products/galaxy-watch-ultra2/1.webp",
+      "sourcePage": "https://news.samsung.com/global/samsung-galaxy-watch-ultra2-and-watch9-your-health-companion-on-the-wrist",
+      "originalUrl": "https://images.samsung.com/is/image/samsung/assets/us/watches/galaxy-watch-ultra2/images/Galaxy-Watch-Ultra2_Design-colors-silver_PC.jpg?imbypass=true",
+      "webDimensions": [
+        1160,
+        1080
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch4-classic",
+      "manufacturerModel": "Samsung Galaxy Watch4 Classic",
+      "src": "/products/galaxy-watch4-classic/1.webp",
+      "sourcePage": "https://news.samsung.com/kr/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%984%C2%B7%EC%9B%8C%EC%B9%984-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+      "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2021/08/%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%984-%ED%81%B4%EB%9E%98%EC%8B%9D_%EB%B8%94%EB%9E%99.jpg",
+      "webDimensions": [
+        1000,
+        666
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch4-classic",
+      "manufacturerModel": "Samsung Galaxy Watch4 Classic",
+      "src": "/products/galaxy-watch4-classic/2.webp",
+      "sourcePage": "https://news.samsung.com/kr/%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%984%C2%B7%EC%9B%8C%EC%B9%984-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+      "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2021/08/%EC%82%BC%EC%84%B1-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%984-%ED%81%B4%EB%9E%98%EC%8B%9D_%EC%8B%A4%EB%B2%84.jpg",
+      "webDimensions": [
+        1000,
+        666
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch5-pro",
+      "manufacturerModel": "Samsung Galaxy Watch5 Pro",
+      "src": "/products/galaxy-watch5-pro/1.webp",
+      "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%985%C2%B7%EC%9B%8C%EC%B9%985-%ED%94%84%EB%A1%9C-%EA%B3%B5%EA%B0%9C",
+      "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2022/08/7.%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%985-%ED%94%84%EB%A1%9C_%EA%B7%B8%EB%A0%88%EC%9D%B4-%ED%8B%B0%ED%83%80%EB%8A%84_1.jpg",
+      "webDimensions": [
+        1000,
+        666
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch5-pro",
+      "manufacturerModel": "Samsung Galaxy Watch5 Pro",
+      "src": "/products/galaxy-watch5-pro/2.webp",
+      "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%985%C2%B7%EC%9B%8C%EC%B9%985-%ED%94%84%EB%A1%9C-%EA%B3%B5%EA%B0%9C",
+      "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2022/08/9.%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%985-%ED%94%84%EB%A1%9C_%EB%B8%94%EB%9E%99-%ED%8B%B0%ED%83%80%EB%8A%84_1.jpg",
+      "webDimensions": [
+        1000,
+        666
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch6-classic",
+      "manufacturerModel": "Samsung Galaxy Watch6 Classic",
+      "src": "/products/galaxy-watch6-classic/1.webp",
+      "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986%C2%B7%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+      "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2023/07/%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-47mm-%EB%B8%94%EB%9E%99-%EC%A0%95%EB%A9%B4-e1690360159594.jpg",
+      "webDimensions": [
+        1000,
+        667
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
+      "commercialLicenceVerified": false,
+      "upscaled": false
+    },
+    {
+      "productId": "galaxy-watch6-classic",
+      "manufacturerModel": "Samsung Galaxy Watch6 Classic",
+      "src": "/products/galaxy-watch6-classic/2.webp",
+      "sourcePage": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986%C2%B7%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-%EA%B3%B5%EA%B0%9C",
+      "originalUrl": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2023/07/%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EC%9B%8C%EC%B9%986-%ED%81%B4%EB%9E%98%EC%8B%9D-47mm-%EB%B8%94%EB%9E%99-%EC%B8%A1%EB%A9%B4-e1690360149561.jpg",
+      "webDimensions": [
+        1000,
+        667
+      ],
+      "exactModelEvidence": "Official manufacturer media identifies the model in its image text or page context; image visually reviewed against the catalogue entry.",
+      "sourceKind": "Samsung official product media",
+      "rights": "Samsung copyrighted imagery; commercial reuse rights require applicable reseller or manufacturer permission.",
       "commercialLicenceVerified": false,
       "upscaled": false
     }
