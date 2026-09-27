@@ -47,3 +47,7 @@ h2{font-family:Poppins,sans-serif;font-weight:600;letter-spacing:-.045em}.eyebro
 @media(min-width:1001px){.category-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
 .category-tile.watches{background:#e9eef1}
 @media(min-width:761px) and (max-width:1000px){.category-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+.category-tile.phones{background:#f0f2f8}
+.category-tile.tablets{background:var(--ice)}
+.category-tile.laptops{background:var(--category-tablet)}
