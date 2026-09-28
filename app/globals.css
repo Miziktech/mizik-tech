@@ -51,3 +51,9 @@ h2{font-family:Poppins,sans-serif;font-weight:600;letter-spacing:-.045em}.eyebro
 .category-tile.phones{background:#f0f2f8}
 .category-tile.tablets{background:var(--ice)}
 .category-tile.laptops{background:var(--category-tablet)}
+
+/* A small, one-time entrance for content reached by scrolling. */
+.scroll-reveal{opacity:0;transform:translate3d(0,18px,0);transition:opacity .65s ease-out,transform .65s cubic-bezier(.2,.7,.2,1)}
+.scroll-reveal.is-visible{opacity:1;transform:none}
+@media(max-width:760px){.scroll-reveal{transform:translate3d(0,12px,0);transition-duration:.48s}}
+@media(prefers-reduced-motion:reduce){.scroll-reveal{opacity:1;transform:none;transition:none}}
